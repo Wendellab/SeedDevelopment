@@ -6,4 +6,4 @@ Project description, data sheets and analytic scripts for transcriptomic and pro
 ### Paper 1
 Ran et al. The Plant Genome (2014). A transcriptome profile for developing seed of polyploid cotton.
 * data sheet - "RPKM values of cottonseed transcriptomes.txt"
-* script - "Rscript.txt"
+* R script for clustering analysis and heatmaps - "clusteringAnalysis.txt"
